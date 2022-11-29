@@ -36,7 +36,7 @@ function HomeStackScreen() {
   return (
     <HomeStack.Navigator>
       <HomeStack.Screen
-        name="A"
+        name="Z"
         component={HomeScreen}
         options={{ tabBarLabel: 'Home!' }}
       />
